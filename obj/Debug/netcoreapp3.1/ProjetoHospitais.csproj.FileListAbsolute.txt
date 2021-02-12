@@ -1,0 +1,13 @@
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.exe
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.deps.json
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.runtimeconfig.json
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.dll
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\bin\Debug\netcoreapp3.1\ProjetoHospitais.pdb
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.AssemblyInfo.cs
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.dll
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.pdb
+C:\Users\ricar\Desktop\DS2\ProjetoHospitais\obj\Debug\netcoreapp3.1\ProjetoHospitais.genruntimeconfig.cache
